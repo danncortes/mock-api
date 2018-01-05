@@ -3,7 +3,7 @@ var schema = {
     "properties": {
         "users": {
             "type": "array",
-            "minItems": 3,
+            "minItems": 4,
             "maxItems": 10,
             "items": {
                 "type": "object",
